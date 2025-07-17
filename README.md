@@ -1,16 +1,38 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**Chiky-007/Chiky-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:rocket: **Estudiante de Ingeniería Mecatrónica**  
+:robot: **Apasionado por la automatización, la tecnología y Salesforce**  
+:books: **Siempre aprendiendo y mejorando**  
+🎮 **Fan de los videojuegos y los proyectos creativos**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Vías de contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andreycamiloromero/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Camilo-black?style=for-the-badge&logo=github)](https://github.com/Chiky-007)
+
+---
+
+### 🚀 Sobre mí
+
+- 👨‍🎓 Actualmente cursando el último semestre de Ingeniería Mecatrónica.  
+- ⚙️ Técnico Profesional en Electrónica Industrial.  
+- 🤖 Tecnólogo en Automatización Industrial.  
+- 🧠 Interesado en proyectos de automatización y Salesforce.  
+- 🌱 Aprendiendo Apex, LWC y Salesforce Industries desde Trailhead.  
+- 💬 Me gusta compartir lo que aprendo con otros.
+
+---
+
+### 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chiky-007&show_icons=true&theme=radical)
+
+---
+
+### 🚧 Proyectos en marcha
+
+- ☁️ Aprendizaje práctico de Salesforce y automatizaciones en la nube.
+
+---
