@@ -9,8 +9,7 @@
 
 ## 📬 Vías de contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/andreycamiloromero
-)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andreycamiloromero/)
 [![GitHub](https://img.shields.io/badge/GitHub-Camilo-black?style=for-the-badge&logo=github)](https://github.com/Chiky-007)
 
 ---
