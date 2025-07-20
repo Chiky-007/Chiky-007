@@ -36,3 +36,8 @@
 - ☁️ Aprendizaje práctico de Salesforce y automatizaciones en la nube.
 
 ---
+
+### ⚡ Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
