@@ -40,12 +40,10 @@
 ### ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Chiky-007/My_plantas](https://github.com/Chiky-007/My_plantas)<br>
-2. ⬆️ Pushed 1 commit(s) to [Chiky-007/My_plantas](https://github.com/Chiky-007/My_plantas)<br>
-3. ⬆️ Pushed 1 commit(s) to [Chiky-007/My_plantas](https://github.com/Chiky-007/My_plantas)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 24th, 2025, 1:08:53 AM
+Last Updated: Sunday, August 24th, 2025, 12:23:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
